@@ -1,0 +1,10 @@
+*
+!.gitignore
+!README.md
+!BUILD.md
+!paper.tex
+!references.bib
+!When Graph Expansion Helps and Hurts.pdf
+!figures/
+!figures/*.pdf
+!PUBLIC_README.md
